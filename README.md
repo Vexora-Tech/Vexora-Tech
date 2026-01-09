@@ -1,16 +1,24 @@
 ## Hi there 👋
+### I’m Vansh dhaka
 
-<!--
-**Vexora-Tech/Vexora-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer currently focused on **React**, with a clear goal of becoming a solid **full-stack MERN developer**.
+My approach is simple: **understand React properly, build real projects, then move backend once the foundation is strong.**
 
-Here are some ideas to get you started:
+### What I’m focused on right now
+- Building React applications from scratch
+- Writing clean, readable components
+- Learning hooks, state management, and component structure
+- Turning ideas into working projects instead of demo apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- React
+- JavaScript 
+- HTML & CSS
+- Tailwind
+- Git & GitHub
+
+### What’s next
+- Strengthen React fundamentals
+- Start backend with Node.js and Express
+- Add MongoDB once the backend basics are clear
+- Build full-stack projects that actually make sense
