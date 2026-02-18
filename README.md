@@ -16,6 +16,7 @@ My approach is simple: **understand React properly, build real projects, then mo
 - HTML & CSS
 - Tailwind
 - Git & GitHub
+- java
 
 ### What’s next
 - Strengthen React fundamentals
