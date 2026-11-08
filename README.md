@@ -46,14 +46,15 @@ Core Concepts
 
 🚀 Selected Projects
 
-Project	Repository
-AI Code Reviewer	View Repository
-AI Chatbot	View Repository
-Expense Manager	View Repository
-Shopping App	View Repository
-Travel Adviser	View Repository
-Node.js Airbnb Project	View Repository
-Java DSA	View Repository
+|Project               |Repository                                                        |
+|----------------------|------------------------------------------------------------------|
+|AI Code Reviewer      |[View Repository](https://github.com/Vexora-Tech/AI-Code-Reviewer)|
+|AI Chatbot            |[View Repository](https://github.com/Vexora-Tech/AI-Chatbot)      |
+|Expense Manager       |[View Repository](https://github.com/Vexora-Tech/Expense-Manager) |
+|Shopping App          |[View Repository](https://github.com/Vexora-Tech/Shopping-app)    |
+|Travel Adviser        |[View Repository](https://github.com/Vexora-Tech/Travel-Adviser)  |
+|Node.js Airbnb Project|[View Repository](https://github.com/Vexora-Tech/Node.js-airbnb)  |
+|Java DSA              |[View Repository](https://github.com/Vexora-Tech/DSA-Java)        |
 
 ⸻
 
